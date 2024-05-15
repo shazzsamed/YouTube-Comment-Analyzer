@@ -32,13 +32,6 @@ This project provides a web application for sentiment analysis of YouTube commen
 
 4. Explore the sentiment analysis results, video information, and channel information. 📈📺
 
-## Contributing 🤝
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
